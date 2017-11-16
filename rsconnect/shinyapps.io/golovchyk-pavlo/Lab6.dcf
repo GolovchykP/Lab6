@@ -1,0 +1,12 @@
+name: Lab6
+title: Lab6
+username:
+account: golovchyk-pavlo
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 236479
+bundleId: 1079954
+url: https://golovchyk-pavlo.shinyapps.io/Lab6/
+when: 1510872821.54656
+asMultiple: FALSE
+asStatic: FALSE
